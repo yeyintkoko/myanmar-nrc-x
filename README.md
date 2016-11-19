@@ -62,3 +62,8 @@ function checknrc(nrcno){
 
 if(checknrc("၁၂/ဥကမ(န)၀၂၃၄၅၆")) console.log('myanmar nrc format is valid')
 ```
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/yeyintkoko/myanmar-nrc-x/badge.svg?style=beer-square)](https://beerpay.io/yeyintkoko/myanmar-nrc-x)  [![Beerpay](https://beerpay.io/yeyintkoko/myanmar-nrc-x/make-wish.svg?style=flat-square)](https://beerpay.io/yeyintkoko/myanmar-nrc-x?focus=wish)
